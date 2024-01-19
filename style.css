@@ -1,81 +1,20 @@
-body {
-    font-family: Arial, sans-serif;
-    line-height: 1.6;
+.about{
+    display: flex;
 }
+.image-about {
+  
 
-header {
-    background-color: #f4f4f4;
-    padding: 20px;
-    text-align: center;
 }
+.text-about{
+    display: flex;
+    flex-direction: column;
 
-nav ul {
-    list-style-type: none;
-    padding: 0;
 }
+.text-about .p-who {
+    color: blue;
+    text-align: left;
 
-nav ul li {
-    display: inline;
-    margin-right: 10px;
 }
-
-main {
-    padding: 20px;
-}
-
-section {
-    margin-bottom: 20px;
-}
-
-header {
-    background-color: #f4f4f4;
-    padding: 20px;
-    text-align: center;
-}
-
-nav ul {
-    list-style-type: none;
-    padding: 0;
-}
-
-nav ul li {
-    display: inline;
-    margin-right: 10px;
-}
-
-main {
-    padding: 20px;
-}
-
-section {
-    margin-bottom: 20px;
-}
-
-
-header {
-    background-color: #f4f4f4;
-    padding: 20px;
-    text-align: center;
-}
-
-nav ul {
-    list-style-type: none;
-    padding: 0;
-}
-
-nav ul li {
-    display: inline;
-    margin-right: 10px;
-}
-
-main {
-    padding: 20px;
-}
-
-section {
-    margin-bottom: 20px;
-}
-
 footer {
     background-color: #f4f4f4;
     padding: 20px;
